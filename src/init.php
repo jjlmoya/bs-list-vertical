@@ -118,3 +118,5 @@ function render_bs_list_vertical($attributes)
 }
 
 add_action('enqueue_block_editor_assets', 'bs_list_vertical_editor_assets');
+
+
