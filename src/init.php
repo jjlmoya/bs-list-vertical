@@ -104,7 +104,7 @@ function render_bs_list_vertical($attributes)
 	}
 	return '
 		<section class="og-list-title-vertical
-			   l-flex
+			   l-flex l-grid-column--full
 			   l-position
 			   a-bg ' . $class . ' ">
 		   <h1 class="a-text  a-text--xl  og-list-title-vertical__title a-text--secondary">
